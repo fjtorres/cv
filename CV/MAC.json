@@ -434,6 +434,33 @@
           }
         ]
       }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "PdfGridView",
+          "description": "Yii extension for export grid view to PDF with MPDF.",
+          "URL": "https://github.com/fjtorres/PdfGridView"
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2013-09-01",
+            "finishDate": "2015-06-01",
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Yii",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {

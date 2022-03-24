@@ -478,6 +478,22 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Functional Programming Principles in Scala",
+        "startDate": "2010-01-01",
+        "institution": {
+          "name": "Coursera",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "Scala",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },

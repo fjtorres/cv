@@ -118,6 +118,10 @@
                 "type": "technology"
               },
               {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
                 "name": "jQuery",
                 "type": "technology"
               },

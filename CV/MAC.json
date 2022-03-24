@@ -100,6 +100,57 @@
       },
       {
         "organization": {
+          "name": "Sadiel dessarrollo de sistemas"
+        },
+        "roles": [
+          {
+            "name": "Senior Java Developer",
+            "startDate": "2010-01-01",
+            "finishDate": "2014-01-01",
+            "challenges": [
+              {
+                "description": "Design and develop software for the government of Andalucía, ENDESA, COVAP and Osborne Group using Java."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "JPA",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Zerocopy",
           "URL": "https://zerocopy.be"
         },

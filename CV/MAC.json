@@ -134,6 +134,73 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Zerocopy",
+          "URL": "https://zerocopy.be"
+        },
+        "roles": [
+          {
+            "name": "Software engineer ",
+            "startDate": "2020-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "JPA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

@@ -7,8 +7,12 @@
   "aboutMe": {
     "profile": {
       "name": "Francisco Javier",
-      "surnames": "Torres",
-      "description": "Mi experiencia se centra en el desarrollo Java aunque siempre he formado parte de backend y fronted en todos los proyectos que he participado. En los últimos años he sido el desarrollador detrás de una startup belga llamada Zerocopy. Me encanta aprender cosas nuevas, aunque desde que nació mi hijo es difícil compaginar esas cosas.\n\nFuera de la programación me encantan las series y películas. Además de salir en bicicleta y hacer rutas de senderismo."
+      "surnames": "Torres Ibañez",
+      "title": "",
+      "description": "Mi experiencia se centra en el desarrollo Java aunque siempre he formado parte de backend y fronted en todos los proyectos que he participado. En los últimos años he sido el desarrollador detrás de una startup belga llamada Zerocopy. Me encanta aprender cosas nuevas, aunque desde que nació mi hijo es difícil compaginar esas cosas.\n\nFuera de la programación me encantan las series y películas. Además de salir en bicicleta y hacer rutas de senderismo.",
+      "location": {
+        "notes": "Bormujos, Sevilla"
+      }
     },
     "relevantLinks": [
       {
@@ -507,6 +511,14 @@
         {
           "type": "other",
           "URL": "https://stackoverflow.com/users/1633998/fjtorres"
+        }
+      ]
+    },
+    "preferences": {
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
         }
       ]
     }

@@ -435,6 +435,22 @@
   "knowledge": {
     "studies": [
       {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Java Standard Edition 6 Programmer Certified Professional (1Z0-851)",
+        "startDate": "2011-09-01",
+        "institution": {
+          "name": "Oracle",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Higher vocational education in software development",

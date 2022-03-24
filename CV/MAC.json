@@ -159,6 +159,57 @@
         },
         "roles": [
           {
+            "name": "Junior Java Developer",
+            "startDate": "2007-10-01",
+            "finishDate": "2008-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "MyBatis",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sadiel dessarrollo de sistemas"
+        },
+        "roles": [
+          {
             "name": "Java developer",
             "startDate": "2009-01-01",
             "finishDate": "2009-12-01",

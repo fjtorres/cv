@@ -29,6 +29,70 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Zerocopy",
+          "URL": "https://zerocopy.be"
+        },
+        "roles": [
+          {
+            "name": "Software engineer ",
+            "startDate": "2016-12-01",
+            "finishDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "- Collaborate with CEO to define the roadmap and new features.\n- Design and develop the new backend and frontend for the company using Java 8 and React/Redux.\n- Design and develop desktop application using Java 8 and Java FX.\n- Build pipelines for CI/CD with Bitbucket to be deployed on Digital Ocean servers.\n- Design and develop new features and bug fixes for existing dashboard in PHP (Symfony 2.X)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "RabbitMQ",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Bitbucket",
+                "type": "technology"
+              },
+              {
+                "name": "JPA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaFX",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [

@@ -33,6 +33,37 @@
     "jobs": [
       {
         "organization": {
+          "name": "Novayre"
+        },
+        "roles": [
+          {
+            "name": "Senior Java Developer",
+            "startDate": "2016-03-01",
+            "finishDate": "2016-11-01",
+            "challenges": [
+              {
+                "description": "- Develop RPA software for differents customers using Java 8 and Jidoka.\n- Support engineer for existing software for the government of Extremadura."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Zerocopy",
           "URL": "https://zerocopy.be"
         },

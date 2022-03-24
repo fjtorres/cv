@@ -432,6 +432,39 @@
       }
     ]
   },
+  "knowledge": {
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Higher vocational education in software development",
+        "startDate": "2004-10-01",
+        "finishDate": "2006-06-01",
+        "institution": {
+          "name": "I.E.S. Doñana",
+          "description": ""
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          },
+          {
+            "name": "ASP",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
   "careerPreferences": {
     "contact": {
       "publicProfiles": [

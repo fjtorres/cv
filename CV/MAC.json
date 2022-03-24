@@ -90,6 +90,50 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "AtSistemas",
+          "URL": "https://www.atsistemas.com"
+        },
+        "roles": [
+          {
+            "name": "Software engineer and team lead",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Develop a new commerce system for important company from Spain following microservice architecture. Besides I am the technical lead of my squad/team."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Spring Boot",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "JPA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },

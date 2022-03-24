@@ -64,6 +64,42 @@
       },
       {
         "organization": {
+          "name": "Soltel",
+          "URL": "https://www.soltel.es/"
+        },
+        "roles": [
+          {
+            "name": "Senior Java Developer",
+            "startDate": "2014-06-01",
+            "finishDate": "2016-03-01",
+            "challenges": [
+              {
+                "description": "Support engineer for critical applications for Abengoa Group."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JPA",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Zerocopy",
           "URL": "https://zerocopy.be"
         },

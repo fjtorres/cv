@@ -248,6 +248,10 @@
       {
         "organization": {
           "name": "Soltel",
+          "image": {
+            "alt": "Logo-Web-Grupo-Soltel-3-1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/8056ec28-851d-4ca7-bd05-50d4ce37139b_logo-web-grupo-solte.png"
+          },
           "URL": "https://www.soltel.es/"
         },
         "roles": [

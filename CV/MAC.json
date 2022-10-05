@@ -149,6 +149,10 @@
       {
         "organization": {
           "name": "Zerocopy",
+          "image": {
+            "alt": "facebook.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/f31982ee-a033-4c25-beb4-51c7b1883898_facebook.png"
+          },
           "URL": "https://zerocopy.be"
         },
         "roles": [

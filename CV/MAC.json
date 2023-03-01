@@ -8,7 +8,8 @@
     "profile": {
       "name": "Francisco Javier",
       "surnames": "Torres Ibañez",
-      "description": "Mi experiencia se centra en el desarrollo Java aunque siempre he formado parte de backend y fronted en todos los proyectos que he participado. En los últimos años he sido el desarrollador detrás de una startup belga llamada Zerocopy. Me encanta aprender cosas nuevas, aunque desde que nació mi hijo es difícil compaginar esas cosas.\n\nFuera de la programación me encantan las series y películas. Además de salir en bicicleta y hacer rutas de senderismo.",
+      "title": "",
+      "description": "",
       "location": {
         "country": "España",
         "region": "Andalucía",
@@ -50,6 +51,11 @@
           {
             "name": "Software engineer",
             "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Bitbucket",
@@ -405,6 +411,11 @@
             "name": "Junior Java Developer",
             "startDate": "2007-10-01",
             "finishDate": "2008-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "DB2",
@@ -617,7 +628,8 @@
         "name": "Java Standard Edition 6 Programmer Certified Professional (1Z0-851)",
         "startDate": "2011-09-01",
         "institution": {
-          "name": "Oracle"
+          "name": "Oracle",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -632,7 +644,8 @@
         "name": "Functional Programming Principles in Scala",
         "startDate": "2010-01-01",
         "institution": {
-          "name": "Coursera"
+          "name": "Coursera",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -648,7 +661,8 @@
         "startDate": "2004-10-01",
         "finishDate": "2006-06-01",
         "institution": {
-          "name": "I.E.S. Doñana"
+          "name": "I.E.S. Doñana",
+          "description": ""
         },
         "linkedCompetences": [
           {

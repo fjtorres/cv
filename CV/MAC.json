@@ -1,20 +1,17 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Francisco Javier",
       "surnames": "Torres Ibañez",
-      "title": "",
-      "description": "",
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Bormujos",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Bormujos"
       }
     },
     "relevantLinks": [
@@ -51,11 +48,6 @@
           {
             "name": "Software engineer",
             "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Bitbucket",
@@ -411,11 +403,6 @@
             "name": "Junior Java Developer",
             "startDate": "2007-10-01",
             "finishDate": "2008-12-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "DB2",
@@ -485,12 +472,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -652,8 +637,7 @@
         "name": "Java Standard Edition 6 Programmer Certified Professional (1Z0-851)",
         "startDate": "2011-09-01",
         "institution": {
-          "name": "Oracle",
-          "description": ""
+          "name": "Oracle"
         },
         "linkedCompetences": [
           {
@@ -664,12 +648,12 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Functional Programming Principles in Scala",
         "startDate": "2010-01-01",
+        "finishDate": "2010-06-01",
         "institution": {
-          "name": "Coursera",
-          "description": ""
+          "name": "Coursera"
         },
         "linkedCompetences": [
           {
@@ -685,8 +669,7 @@
         "startDate": "2004-10-01",
         "finishDate": "2006-06-01",
         "institution": {
-          "name": "I.E.S. Doñana",
-          "description": ""
+          "name": "I.E.S. Doñana"
         },
         "linkedCompetences": [
           {
@@ -734,7 +717,6 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }

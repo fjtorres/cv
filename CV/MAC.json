@@ -1,17 +1,20 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Francisco Javier",
       "surnames": "Torres Ibañez",
+      "title": "",
+      "description": "",
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Bormujos"
+        "municipality": "Bormujos",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -48,6 +51,11 @@
           {
             "name": "Software engineer",
             "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Bitbucket",
@@ -403,6 +411,11 @@
             "name": "Junior Java Developer",
             "startDate": "2007-10-01",
             "finishDate": "2008-12-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "DB2",
@@ -472,10 +485,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -637,7 +652,8 @@
         "name": "Java Standard Edition 6 Programmer Certified Professional (1Z0-851)",
         "startDate": "2011-09-01",
         "institution": {
-          "name": "Oracle"
+          "name": "Oracle",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -653,7 +669,8 @@
         "startDate": "2010-01-01",
         "finishDate": "2010-06-01",
         "institution": {
-          "name": "Coursera"
+          "name": "Coursera",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -669,7 +686,8 @@
         "startDate": "2004-10-01",
         "finishDate": "2006-06-01",
         "institution": {
-          "name": "I.E.S. Doñana"
+          "name": "I.E.S. Doñana",
+          "description": ""
         },
         "linkedCompetences": [
           {
@@ -706,6 +724,24 @@
       ]
     },
     "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaFX",
+          "type": "technology"
+        },
+        {
+          "name": "Kafka",
+          "type": "technology"
+        },
+        {
+          "name": "Spring Boot",
+          "type": "technology"
+        }
+      ],
       "discardedCompetences": [
         {
           "name": "PHP",
@@ -717,6 +753,7 @@
         "Frontend Developer",
         "Full-stack Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }

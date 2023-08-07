@@ -1,40 +1,22 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Francisco Javier",
       "surnames": "Torres Ibañez",
-      "title": "",
+      "title": "Title",
       "description": "I am a software engineer with more than 10 years of experience building software for different companies. I can work alone or with team mates without problems, I did it for years. The flexibility is an important perk for me, I want to be able to leave my kids in the school or have time to pickup them from the school.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJAaKqgDYTEg0RUM6ZDUiupqg)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Bormujos",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Bormujos"
       }
-    },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/fjtorres"
-      },
-      {
-        "type": "other",
-        "URL": "https://stackoverflow.com/users/1633998/fjtorres"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/kisco_"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/fjtorresibanez"
-      }
-    ]
+    }
   },
   "experience": {
     "jobs": [
@@ -42,8 +24,8 @@
         "organization": {
           "name": "Zerocopy",
           "image": {
-            "alt": "facebook.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/1f594cb2-5f12-46b8-8701-7ad871801bad_facebook.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/1f594cb2-5f12-46b8-8701-7ad871801bad_facebook.png",
+            "alt": "facebook.png"
           },
           "URL": "https://zerocopy.be"
         },
@@ -51,11 +33,6 @@
           {
             "name": "Software engineer",
             "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "Bitbucket",
@@ -113,8 +90,8 @@
         "organization": {
           "name": "AtSistemas",
           "image": {
-            "alt": "at-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/463d8991-d385-4c1e-985b-88a25dd320b7_at-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/463d8991-d385-4c1e-985b-88a25dd320b7_at-logo.png",
+            "alt": "at-logo.png"
           },
           "URL": "https://www.atsistemas.com"
         },
@@ -161,8 +138,8 @@
         "organization": {
           "name": "Zerocopy",
           "image": {
-            "alt": "facebook.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/f31982ee-a033-4c25-beb4-51c7b1883898_facebook.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/f31982ee-a033-4c25-beb4-51c7b1883898_facebook.png",
+            "alt": "facebook.png"
           },
           "URL": "https://zerocopy.be"
         },
@@ -256,8 +233,8 @@
         "organization": {
           "name": "Soltel",
           "image": {
-            "alt": "Logo-Web-Grupo-Soltel-3-1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/8056ec28-851d-4ca7-bd05-50d4ce37139b_logo-web-grupo-solte.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/10/05/8056ec28-851d-4ca7-bd05-50d4ce37139b_logo-web-grupo-solte.png",
+            "alt": "Logo-Web-Grupo-Soltel-3-1.png"
           },
           "URL": "https://www.soltel.es/"
         },
@@ -411,11 +388,6 @@
             "name": "Junior Java Developer",
             "startDate": "2007-10-01",
             "finishDate": "2008-12-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "DB2",
@@ -466,7 +438,6 @@
           {
             "name": "Developer",
             "startDate": "2013-09-01",
-            "finishDate": "2015-06-01",
             "competences": [
               {
                 "name": "PHP",
@@ -476,7 +447,8 @@
                 "name": "Yii",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2015-06-01"
           }
         ]
       }
@@ -485,72 +457,18 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JSF",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DB2",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kafka",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hibernate",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Oracle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mixpanel",
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -562,19 +480,7 @@
       },
       {
         "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
+          "name": "DB2",
           "type": "technology"
         }
       },
@@ -586,31 +492,13 @@
       },
       {
         "skill": {
-          "name": "JPA",
+          "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "NoSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MyBatis",
+          "name": "Hibernate",
           "type": "technology"
         }
       },
@@ -622,13 +510,97 @@
       },
       {
         "skill": {
+          "name": "JPA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSF",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Maven",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "jQuery",
+          "name": "Mixpanel",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MyBatis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NoSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
           "type": "technology"
         }
       },
@@ -640,38 +612,21 @@
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "jQuery",
           "type": "technology"
         }
       }
     ],
     "studies": [
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Java Standard Edition 6 Programmer Certified Professional (1Z0-851)",
-        "startDate": "2011-09-01",
-        "institution": {
-          "name": "Oracle",
-          "description": ""
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          }
-        ]
-      },
-      {
         "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Functional Programming Principles in Scala",
         "startDate": "2010-01-01",
-        "finishDate": "2010-06-01",
         "institution": {
-          "name": "Coursera",
-          "description": ""
+          "name": "Coursera"
         },
+        "finishDate": "2010-06-01",
         "linkedCompetences": [
           {
             "name": "Scala",
@@ -684,11 +639,10 @@
         "degreeAchieved": true,
         "name": "Higher vocational education in software development",
         "startDate": "2004-10-01",
-        "finishDate": "2006-06-01",
         "institution": {
-          "name": "I.E.S. Doñana",
-          "description": ""
+          "name": "I.E.S. Doñana"
         },
+        "finishDate": "2006-06-01",
         "linkedCompetences": [
           {
             "name": "ASP",
@@ -707,6 +661,41 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Java Standard Edition 6 Programmer Certified Professional (1Z0-851)",
+        "startDate": "2011-09-01",
+        "institution": {
+          "name": "Oracle"
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomy in learning",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mentoring ability",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Team player",
+          "type": "practice"
+        }
       }
     ]
   },
@@ -714,12 +703,29 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/fjtorresibanez"
+          "URL": "https://www.linkedin.com/in/fjtorresibanez",
+          "type": "linkedin"
         },
         {
-          "type": "other",
-          "URL": "https://stackoverflow.com/users/1633998/fjtorres"
+          "URL": "https://stackoverflow.com/users/1633998/fjtorres",
+          "type": "stackoverflow"
+        },
+        {
+          "URL": "https://github.com/fjtorres",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/kisco_",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "fj.torres.ibanez@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "661085078",
+          "countryCode": "+34"
         }
       ]
     },
@@ -755,5 +761,13 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Trabajo en empresa de producto donde pueda aportar valor y aprender cada día.",
+    "projects": [
+      {
+        "name": "PdfGridView"
+      }
+    ]
   }
 }

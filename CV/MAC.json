@@ -763,6 +763,16 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "Spring",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Trabajo en empresa de producto donde pueda aportar valor y aprender cada día.",
     "projects": [
       {

@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
+    "language": "ES",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -16,7 +16,25 @@
         "region": "Andalucía",
         "municipality": "Bormujos"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/fjtorresibanez"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/fjtorres"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/kisco_"
+      },
+      {
+        "type": "stackoverflow",
+        "URL": "https://stackoverflow.com/users/1633998/fjtorres"
+      }
+    ]
   },
   "experience": {
     "jobs": [
@@ -458,10 +476,12 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
@@ -681,19 +701,19 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Autonomy in learning",
+          "name": "Autonomía en el aprendizaje",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Mentoring ability",
+          "name": "Capacidad de mentorización",
           "type": "practice"
         }
       },
       {
         "skill": {
-          "name": "Team player",
+          "name": "Trabajo en equipo",
           "type": "practice"
         }
       }
@@ -721,12 +741,6 @@
       ],
       "contactMails": [
         "fj.torres.ibanez@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "661085078",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
@@ -766,6 +780,14 @@
     "mainStackTechs": [
       {
         "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "JPA",
+        "type": "technology"
+      },
+      {
+        "name": "Maven",
         "type": "technology"
       },
       {

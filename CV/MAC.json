@@ -8,7 +8,7 @@
     "profile": {
       "name": "Francisco Javier",
       "surnames": "Torres Ibañez",
-      "title": "Title",
+      "title": "%%HEADLINE%%",
       "description": "I am a software engineer with more than 10 years of experience building software for different companies. I can work alone or with team mates without problems, I did it for years. The flexibility is an important perk for me, I want to be able to leave my kids in the school or have time to pickup them from the school.",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJAaKqgDYTEg0RUM6ZDUiupqg)",
@@ -61,11 +61,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JPA",
                 "type": "technology"
               },
               {
-                "name": "JPA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -129,11 +129,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JPA",
                 "type": "technology"
               },
               {
-                "name": "JPA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -181,11 +181,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JPA",
                 "type": "technology"
               },
               {
-                "name": "JPA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -232,7 +232,7 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -272,11 +272,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JPA",
                 "type": "technology"
               },
               {
-                "name": "JPA",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -311,15 +311,15 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "JPA",
                 "type": "technology"
               },
               {
                 "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -366,15 +366,15 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
                 "name": "JPA",
                 "type": "technology"
               },
               {
                 "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -416,11 +416,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "JSF",
                 "type": "technology"
               },
               {
-                "name": "JSF",
+                "name": "Java",
                 "type": "technology"
               },
               {
@@ -524,12 +524,6 @@
       },
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JPA",
           "type": "technology"
         }
@@ -537,6 +531,12 @@
       {
         "skill": {
           "name": "JSF",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Java",
           "type": "technology"
         }
       },
@@ -669,7 +669,7 @@
             "type": "technology"
           },
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           },
           {
@@ -692,7 +692,7 @@
         },
         "linkedCompetences": [
           {
-            "name": "JAVA",
+            "name": "Java",
             "type": "technology"
           }
         ]
@@ -746,7 +746,7 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "JAVA",
+          "name": "Java",
           "type": "technology"
         },
         {
@@ -774,16 +774,21 @@
         "Full-stack Developer"
       ]
     },
-    "status": "openToOffers"
+    "status": "openToOffers",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "JAVA",
+        "name": "JPA",
         "type": "technology"
       },
       {
-        "name": "JPA",
+        "name": "Java",
         "type": "technology"
       },
       {

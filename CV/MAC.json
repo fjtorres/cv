@@ -758,6 +758,10 @@
           "type": "technology"
         },
         {
+          "name": "RabbitMQ",
+          "type": "technology"
+        },
+        {
           "name": "Spring Boot",
           "type": "technology"
         }

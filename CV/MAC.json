@@ -769,6 +769,10 @@
           "type": "technology"
         },
         {
+          "name": ".Net Core",
+          "type": "technology"
+        },
+        {
           "name": "PHP",
           "type": "technology"
         }

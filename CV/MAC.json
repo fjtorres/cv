@@ -807,6 +807,10 @@
       {
         "name": "Spring",
         "type": "technology"
+      },
+      {
+        "name": "Spring Boot",
+        "type": "technology"
       }
     ],
     "desiredJobDescription": "Trabajo en empresa de producto donde pueda aportar valor y aprender cada día.",

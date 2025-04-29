@@ -524,12 +524,6 @@
       },
       {
         "skill": {
-          "name": "JPA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JSF",
           "type": "technology"
         }
@@ -615,12 +609,6 @@
       {
         "skill": {
           "name": "SQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Spring",
           "type": "technology"
         }
       },
@@ -793,10 +781,6 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "JPA",
-        "type": "technology"
-      },
-      {
         "name": "Java",
         "type": "technology"
       },
@@ -805,7 +789,11 @@
         "type": "technology"
       },
       {
-        "name": "Spring",
+        "name": "RabbitMQ",
+        "type": "technology"
+      },
+      {
+        "name": "React",
         "type": "technology"
       },
       {

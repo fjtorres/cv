@@ -51,6 +51,11 @@
           {
             "name": "Software engineer",
             "startDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "- Process automation with n8n/make.com\n- Add new features to our backend in Java and update our web app in React according to requirements.\n- Migrate our desktop app to Java 21 and JavaFX 17.\n- Improve our CI/CD pipelines to deploy on Digital Ocean.\n- Design and develop a new dashboard in React to improve our internal dashboard.\n- Integrate AI in our platform.\n- Onboarding of new developers."
+              }
+            ],
             "competences": [
               {
                 "name": "Bitbucket",
